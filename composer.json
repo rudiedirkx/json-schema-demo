@@ -1,0 +1,13 @@
+{
+    "name": "rdx/json-schema-demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rudie Dirkx",
+            "email": "github@hotblocks.nl"
+        }
+    ],
+    "require": {
+        "justinrainbow/json-schema": "^5.2"
+    }
+}
